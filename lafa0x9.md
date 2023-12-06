@@ -6,29 +6,21 @@ Started its journey from 2016 with certain principles. We are focused on custome
 
 SSO_M_AI is simply an online portal. We bring solutions to the customers – opening up a world of possibility. We give you access to everything you need and want. Our range is unparalleled, and our prices unbeatable.
 
+SSO_M_AI is an community based company (Connecting Dots) founded in Nepal with a vision to provide a hassle-free and enjoyable sharing idea with liked minded experience to across the country.
 
-Enjoy with us! SSO_M_AI - “We deliver trust”
+The company started with an ecommerce website and has evolved over the years across multiple attempts:
 
-First Attempted From 2016:
-Ecommerce Platform - Click, Buy & Sell Nepal
+In 2016, they launched a website on WordPress for local ecommerce in Nepal.
 
-Website (www.ssomai.com.np) with Themes and Hosting  |  WordPress Platform
-Local & Mouth Talking, Restaurant & Social Media Channel & Android App
+In 2018, they expanded the ecommerce operations with accounting, ERP, and stock management capabilities. They also used SMS, social media, and email marketing channels.
 
+In 2020, they launched a Shopify website focused on worldwide ecommerce.
 
-Second Attempted From 2018:
-Ecommerce with Accounting, ERP, Stock Management  - Click, Buy Products & Service Nepal
+Through these iterations, SSO_M_AI has stayed true to its founding principles of customer obsession, passion for invention, operational excellence, and long-term thinking.
 
-Website (www.sastosales.com.np)
-SMS, FB & Instagram, Email Marketing 
+Now, SSO_M_AI aims to take the business to the next level to achieve ambitious goals. We are building a team of experts across multiple disciplines to tackle this highly complex project.
 
-
-Third Attempted From 2020: 
-Ecommerce Store  - Click, Buy Products World Wide
-
-Website (www.sastosales.co) | Shopify Platform
-Social Media,Google & Email Marketing
-
+SSO_M_AI needs support in any form - sharing the project, becoming a member to get updates and contribute, or sponsoring the project financially. Each contribution will fuel the growth engine and bloodline of this startup. SSO_M_AI believes that with the community's support, they can achieve goals never imagined before and positively impact Nepal and the world.
 
 We are happy to build a team, a team of smart people and language experts. The project is highly complex and without a good team and experts the Goals cannot be achieved.
 
